@@ -1,6 +1,4 @@
-# Economic-Indicator-Analysis
-
-# Education-Development-Analytics  
+# Economic Indicator Analysis
 
 **Analyzing Global Education Metrics and Human Development Indices (HDI)**  
  
