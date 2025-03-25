@@ -16,7 +16,7 @@ This project collects, cleans, and analyzes global education data (literacy rate
  
 ## Academic Assessment  
 
-A detailed analysis of this project's methodology, results, and limitations is available in the [accompanying paper](docs/Education_Development_Analysis_Paper.pdf).  
+A detailed analysis of this project's methodology, results, and limitations is available in the following [paper](Docs/BBIM612_A1_Report_764706455_1.pdf).  
  
 ## Data Sources  
 
