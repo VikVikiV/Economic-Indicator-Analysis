@@ -44,7 +44,7 @@ This project extracts data from the following Wikipedia pages:
  
 ### Notes  
 
-- **Dynamic Scraping**: Data is fetched directly from Wikipedia at runtime. Results may vary if Wikipedia’s table structures change.  
+- **Dynamic Scraping**: Data is captured directly from Wikipedia at runtime. Results may vary if Wikipedia’s table structures change.  
 
 - **Attribution**: All data is publicly available under Wikipedia’s [Creative Commons Attribution-ShareAlike License](https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License).   
  
@@ -54,15 +54,5 @@ This project extracts data from the following Wikipedia pages:
 
 - Python 3.8+  
 
-- MongoDB (local or cloud instance)  
- 
-### Installation  
-
-1. Clone the repository:  
-
-   ```bash  
-
-   git clone https://github.com/your-username/Education-Development-Analytics.git  
-
-Progress in International Reading Literacy Study)
+- MongoDB (local or cloud instance) 
  
